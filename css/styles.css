@@ -1,0 +1,33 @@
+h1 {
+  font-family: fantasy;
+  font-weight: 900;
+  color: rgb(53, 170, 141);
+}
+
+h2 {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 500;
+  color: rgb(161, 55, 106);
+}
+
+.header {
+  background-color: antiquewhite;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(40, 40, 40);
+}
+
+.intro {  
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(48, 5, 104);
+}
+
+.body {
+  background-color: darksalmon;
+  font-weight: 100;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.flashy {
+  background-color: black;
+  color: white;
+}
