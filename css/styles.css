@@ -26,6 +26,7 @@ h2 {
   margin-bottom: 20px;
   box-sizing: border-box;
   float: left;
+  text-align: center;
 }
 
 .body {
@@ -56,4 +57,11 @@ h2 {
 
 .bold {
   font-weight: bold;
+}
+
+.centered-image {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
 }
