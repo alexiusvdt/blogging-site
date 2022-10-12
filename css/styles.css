@@ -14,20 +14,46 @@ h2 {
   background-color: antiquewhite;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   color: rgb(40, 40, 40);
+
 }
 
 .intro {  
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   color: rgb(48, 5, 104);
+  width: 400px;
+  border: dotted #baf300;
+  border-width: 10px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  float: left;
 }
 
 .body {
   background-color: darksalmon;
   font-weight: 100;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  width: 75%;
+  box-sizing: border-box;
+  float: right;
+  border: solid rgb(0, 221, 233);
+  border-width: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .flashy {
   background-color: black;
   color: white;
+  box-sizing: border-box;
+  width: 50%;
+  float: right;
+  width: 75%;
+  border: solid red;
+  border-width: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.bold {
+  font-weight: bold;
 }
